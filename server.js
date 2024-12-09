@@ -1,6 +1,6 @@
 const express = require("express");
 const cors = require("cors");
-const postRoute = require("./backend/router/post");
+const postRoute = require("./backend/models/post");
  
 const app = express();
 app.use(cors())
