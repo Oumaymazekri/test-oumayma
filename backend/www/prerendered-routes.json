@@ -1,0 +1,8 @@
+{
+  "routes": {
+    "/": {},
+    "/Authentification": {},
+    "/PostItem": {},
+    "/PostList": {}
+  }
+}

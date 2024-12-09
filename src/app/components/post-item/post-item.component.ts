@@ -11,8 +11,8 @@ export class PostItemComponent {
   posts: any[] = [];
   constructor(public postService: PostService) {}
 
-   ngOnInit(): void {
-    this.posts = this.postService.getPosts()
-     console.log(this.posts); 
-   }
+   //ngOnInit(): void {
+    //this.posts = this.postService.getPosts()
+    // console.log(this.posts); 
+   //}
 }
